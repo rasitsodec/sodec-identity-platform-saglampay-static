@@ -14,7 +14,7 @@ definitions:
           - git config --global user.email "pipeline@bitbucket.org"
           - git config --global user.name "Bitbucket Pipeline"
           - echo "Adding GitHub remote..."
-          - git remote add github https://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@github.com/rasitsodec/sodec-identity-platform-saglampay-static.git
+          - git remote add github https://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@github.com/rasitsodec/sodec-identity-platform-saglampay-static.git
           - echo "Current remotes:"
           - git remote -v
           - echo "Fetching latest changes from GitHub..."

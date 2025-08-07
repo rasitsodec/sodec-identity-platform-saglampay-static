@@ -48,3 +48,6 @@ Thumbs.db
 *.mov
 *.wmv
 
+# Bitbucket specific files (not needed on GitHub)
+bitbucket-pipelines.yml
+
